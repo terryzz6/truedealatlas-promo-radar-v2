@@ -18,6 +18,7 @@ jobs:
       - name: Build static site
         run: python build.py
       - name: Commit the guide and generated pages
+        id: commit
         run: |
           git config user.name "true-deal-atlas-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -27,4 +28,10 @@ jobs:
           else
             git commit -m "content: publish daily shopping guide"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+      - name: Deploy updated site to Cloudflare Pages
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          DEPLOY_HOOK: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_HOOK }}
+        run: curl --fail --silent --show-error --request POST "$DEPLOY_HOOK"
