@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:33:28+00:00",
+  "generated_at": "2026-11-21T07:22:30+00:00",
   "brand": "TrueDealAtlas",
   "niche": "US consumer brand coupons and discounts",
   "locale": "en-US",
@@ -337,10 +337,12 @@
       "source_url": "https://www.dell.com/en-us/shop/dell-deals/ar/8240",
       "fetch_mode": "static",
       "attempts": 2,
-      "status": "ok",
-      "result": "empty",
+      "status": "error",
+      "result": "unavailable",
+      "error": "HTTP Error 403: Forbidden",
       "offer_count": 0,
-      "fetched_offer_count": 0
+      "fetched_offer_count": 0,
+      "retained_offer_count": 0
     },
     {
       "name": "HP",
@@ -761,7 +763,7 @@
       "conditions": "Your faves",
       "offer_url": "https://www.walmart.com/shop/deals/flash-deals",
       "source_url": "https://www.walmart.com/shop/deals/flash-deals",
-      "fetched_at": "2026-11-20T20:26:05+00:00",
+      "fetched_at": "2026-11-21T07:15:18+00:00",
       "active": true,
       "discount_percent": 65
     },
@@ -772,7 +774,7 @@
       "conditions": "Early Black Friday Deals",
       "offer_url": "https://oldnavy.gap.com/browse/category.do?cid=26190",
       "source_url": "https://oldnavy.gap.com/browse/category.do?cid=26190",
-      "fetched_at": "2026-11-20T20:26:51+00:00",
+      "fetched_at": "2026-11-21T07:16:06+00:00",
       "active": true,
       "discount_percent": 50
     },
@@ -783,7 +785,7 @@
       "conditions": "All Sweaters Toddler Girls",
       "offer_url": "https://oldnavy.gap.com/browse/category.do?cid=26190",
       "source_url": "https://oldnavy.gap.com/browse/category.do?cid=26190",
-      "fetched_at": "2026-11-20T20:26:51+00:00",
+      "fetched_at": "2026-11-21T07:16:06+00:00",
       "active": true,
       "discount_percent": 50
     },
@@ -794,7 +796,7 @@
       "conditions": "All Sweaters Toddler Boys",
       "offer_url": "https://oldnavy.gap.com/browse/category.do?cid=26190",
       "source_url": "https://oldnavy.gap.com/browse/category.do?cid=26190",
-      "fetched_at": "2026-11-20T20:26:51+00:00",
+      "fetched_at": "2026-11-21T07:16:06+00:00",
       "active": true,
       "discount_percent": 50
     },
@@ -805,7 +807,7 @@
       "conditions": "Sweatshirts Toddler Girls",
       "offer_url": "https://oldnavy.gap.com/browse/category.do?cid=26190",
       "source_url": "https://oldnavy.gap.com/browse/category.do?cid=26190",
-      "fetched_at": "2026-11-20T20:26:51+00:00",
+      "fetched_at": "2026-11-21T07:16:06+00:00",
       "active": true,
       "discount_percent": 50
     },
@@ -816,7 +818,7 @@
       "conditions": "Sweatshirts Toddler Boys",
       "offer_url": "https://oldnavy.gap.com/browse/category.do?cid=26190",
       "source_url": "https://oldnavy.gap.com/browse/category.do?cid=26190",
-      "fetched_at": "2026-11-20T20:26:51+00:00",
+      "fetched_at": "2026-11-21T07:16:06+00:00",
       "active": true,
       "discount_percent": 50
     },
@@ -827,7 +829,7 @@
       "conditions": "All Sweaters",
       "offer_url": "https://oldnavy.gap.com/browse/category.do?cid=26190",
       "source_url": "https://oldnavy.gap.com/browse/category.do?cid=26190",
-      "fetched_at": "2026-11-20T20:26:51+00:00",
+      "fetched_at": "2026-11-21T07:16:06+00:00",
       "active": true,
       "discount_percent": 50
     },
@@ -838,7 +840,7 @@
       "conditions": "New styles added; limited-time deals",
       "offer_url": "https://www.gap.com/browse/category.do?cid=6998",
       "source_url": "https://www.gap.com/browse/category.do?cid=6998",
-      "fetched_at": "2026-11-20T20:26:53+00:00",
+      "fetched_at": "2026-11-21T07:16:08+00:00",
       "active": true,
       "discount_percent": 60
     },
@@ -849,7 +851,7 @@
       "conditions": "Your first purchase with your new Encore Credit Card at Gap",
       "offer_url": "https://www.gap.com/browse/category.do?cid=6998",
       "source_url": "https://www.gap.com/browse/category.do?cid=6998",
-      "fetched_at": "2026-11-20T20:26:53+00:00",
+      "fetched_at": "2026-11-21T07:16:08+00:00",
       "active": true,
       "discount_percent": 30
     },
@@ -860,7 +862,7 @@
       "conditions": "For Cardmembers with your Encore Credit Card; Code PERK",
       "offer_url": "https://www.gap.com/browse/category.do?cid=6998",
       "source_url": "https://www.gap.com/browse/category.do?cid=6998",
-      "fetched_at": "2026-11-20T20:26:53+00:00",
+      "fetched_at": "2026-11-21T07:16:08+00:00",
       "active": true,
       "discount_percent": 10
     },
@@ -871,7 +873,7 @@
       "conditions": "Your first purchase",
       "offer_url": "https://bananarepublic.gap.com/browse/category.do?cid=69883",
       "source_url": "https://bananarepublic.gap.com/browse/category.do?cid=69883",
-      "fetched_at": "2026-11-20T20:26:56+00:00",
+      "fetched_at": "2026-11-21T07:16:10+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -882,7 +884,7 @@
       "conditions": "Sale styles",
       "offer_url": "https://bananarepublic.gap.com/browse/category.do?cid=69883",
       "source_url": "https://bananarepublic.gap.com/browse/category.do?cid=69883",
-      "fetched_at": "2026-11-20T20:26:56+00:00",
+      "fetched_at": "2026-11-21T07:16:10+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -893,7 +895,7 @@
       "conditions": "Select Styles",
       "offer_url": "https://www.nike.com/promo-code",
       "source_url": "https://www.nike.com/promo-code",
-      "fetched_at": "2026-11-20T20:27:30+00:00",
+      "fetched_at": "2026-11-21T07:16:44+00:00",
       "active": true,
       "discount_percent": 25
     },
@@ -904,7 +906,7 @@
       "conditions": "On Nike",
       "offer_url": "https://www.nike.com/promo-code",
       "source_url": "https://www.nike.com/promo-code",
-      "fetched_at": "2026-11-20T20:27:30+00:00",
+      "fetched_at": "2026-11-21T07:16:44+00:00",
       "active": true,
       "discount_percent": 10
     },
@@ -915,7 +917,7 @@
       "conditions": "Gift with Purchase",
       "offer_url": "https://www.ulta.com/promotion/21-days-of-beauty",
       "source_url": "https://www.ulta.com/promotion/21-days-of-beauty",
-      "fetched_at": "2026-11-20T20:27:39+00:00",
+      "fetched_at": "2026-11-21T07:16:51+00:00",
       "active": true
     },
     {
@@ -925,7 +927,7 @@
       "conditions": "The first purchase¹ on your new card at Ulta Beauty",
       "offer_url": "https://www.ulta.com/promotion/21-days-of-beauty",
       "source_url": "https://www.ulta.com/promotion/21-days-of-beauty",
-      "fetched_at": "2026-11-20T20:27:39+00:00",
+      "fetched_at": "2026-11-21T07:16:51+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -936,7 +938,7 @@
       "conditions": "Select Items",
       "offer_url": "https://www.bathandbodyworks.com/c/sale",
       "source_url": "https://www.bathandbodyworks.com/c/sale",
-      "fetched_at": "2026-11-20T20:27:41+00:00",
+      "fetched_at": "2026-11-21T07:16:53+00:00",
       "active": true,
       "discount_percent": 75
     },
@@ -947,7 +949,7 @@
       "conditions": "Entire store",
       "offer_url": "https://www.bathandbodyworks.com/c/sale",
       "source_url": "https://www.bathandbodyworks.com/c/sale",
-      "fetched_at": "2026-11-20T20:27:41+00:00",
+      "fetched_at": "2026-11-21T07:16:53+00:00",
       "active": true,
       "discount_percent": 40,
       "valid_until_text": "today 40"
@@ -959,7 +961,7 @@
       "conditions": "On $50 orders",
       "offer_url": "https://www.bathandbodyworks.com/c/sale",
       "source_url": "https://www.bathandbodyworks.com/c/sale",
-      "fetched_at": "2026-11-20T20:27:41+00:00",
+      "fetched_at": "2026-11-21T07:16:53+00:00",
       "active": true
     },
     {
@@ -969,7 +971,7 @@
       "conditions": "Ends today",
       "offer_url": "https://www.bathandbodyworks.com/c/sale",
       "source_url": "https://www.bathandbodyworks.com/c/sale",
-      "fetched_at": "2026-11-20T20:27:41+00:00",
+      "fetched_at": "2026-11-21T07:16:53+00:00",
       "active": true
     },
     {
@@ -979,7 +981,7 @@
       "conditions": "Full-size body care",
       "offer_url": "https://www.bathandbodyworks.com/c/sale",
       "source_url": "https://www.bathandbodyworks.com/c/sale",
-      "fetched_at": "2026-11-20T20:27:41+00:00",
+      "fetched_at": "2026-11-21T07:16:53+00:00",
       "active": true,
       "discount_percent": 40
     },
@@ -990,7 +992,7 @@
       "conditions": "Mini & travel size",
       "offer_url": "https://www.bathandbodyworks.com/c/sale",
       "source_url": "https://www.bathandbodyworks.com/c/sale",
-      "fetched_at": "2026-11-20T20:27:41+00:00",
+      "fetched_at": "2026-11-21T07:16:53+00:00",
       "active": true,
       "discount_percent": 40
     },
@@ -1001,7 +1003,7 @@
       "conditions": "Room Sprays",
       "offer_url": "https://www.bathandbodyworks.com/c/sale",
       "source_url": "https://www.bathandbodyworks.com/c/sale",
-      "fetched_at": "2026-11-20T20:27:41+00:00",
+      "fetched_at": "2026-11-21T07:16:53+00:00",
       "active": true,
       "discount_percent": 40
     },
@@ -1012,9 +1014,19 @@
       "conditions": "Car fragrance",
       "offer_url": "https://www.bathandbodyworks.com/c/sale",
       "source_url": "https://www.bathandbodyworks.com/c/sale",
-      "fetched_at": "2026-11-20T20:27:41+00:00",
+      "fetched_at": "2026-11-21T07:16:53+00:00",
       "active": true,
       "discount_percent": 40
+    },
+    {
+      "provider": "Nordstrom Rack",
+      "title": "Nordstrom Rack: FAST & FREE gift pickup at your favorite Rack",
+      "offer_text": "FAST & FREE gift pickup at your favorite Rack.",
+      "conditions": "Pickup at your favorite Rack",
+      "offer_url": "https://www.nordstromrack.com/clearance",
+      "source_url": "https://www.nordstromrack.com/clearance",
+      "fetched_at": "2026-11-21T07:16:57+00:00",
+      "active": true
     },
     {
       "provider": "Nordstrom Rack",
@@ -1023,7 +1035,7 @@
       "conditions": "Clearance items only",
       "offer_url": "https://www.nordstromrack.com/clearance",
       "source_url": "https://www.nordstromrack.com/clearance",
-      "fetched_at": "2026-11-20T20:27:45+00:00",
+      "fetched_at": "2026-11-21T07:16:57+00:00",
       "active": true
     },
     {
@@ -1033,41 +1045,8 @@
       "conditions": "Clearance items only",
       "offer_url": "https://www.nordstromrack.com/clearance",
       "source_url": "https://www.nordstromrack.com/clearance",
-      "fetched_at": "2026-11-20T20:27:45+00:00",
+      "fetched_at": "2026-11-21T07:16:57+00:00",
       "active": true
-    },
-    {
-      "provider": "Nordstrom Rack",
-      "title": "Nordstrom Rack: Up To 65% Off select items",
-      "offer_text": "Up to 65% off select items",
-      "conditions": "Select items",
-      "offer_url": "https://www.nordstromrack.com/clearance",
-      "source_url": "https://www.nordstromrack.com/clearance",
-      "fetched_at": "2026-11-20T20:27:45+00:00",
-      "active": true,
-      "discount_percent": 65
-    },
-    {
-      "provider": "Nordstrom Rack",
-      "title": "Nordstrom Rack: Up To 88% Off select items",
-      "offer_text": "Up to 88% off select items",
-      "conditions": "Select items",
-      "offer_url": "https://www.nordstromrack.com/clearance",
-      "source_url": "https://www.nordstromrack.com/clearance",
-      "fetched_at": "2026-11-20T20:27:45+00:00",
-      "active": true,
-      "discount_percent": 88
-    },
-    {
-      "provider": "Nordstrom Rack",
-      "title": "Nordstrom Rack: Up To 83% Off select items",
-      "offer_text": "Up to 83% off select items",
-      "conditions": "Select items",
-      "offer_url": "https://www.nordstromrack.com/clearance",
-      "source_url": "https://www.nordstromrack.com/clearance",
-      "fetched_at": "2026-11-20T20:27:45+00:00",
-      "active": true,
-      "discount_percent": 83
     },
     {
       "provider": "Nordstrom Rack",
@@ -1076,7 +1055,7 @@
       "conditions": "Select items",
       "offer_url": "https://www.nordstromrack.com/clearance",
       "source_url": "https://www.nordstromrack.com/clearance",
-      "fetched_at": "2026-11-20T20:27:45+00:00",
+      "fetched_at": "2026-11-21T07:16:57+00:00",
       "active": true,
       "discount_percent": 35
     },
@@ -1087,9 +1066,20 @@
       "conditions": "Select items",
       "offer_url": "https://www.nordstromrack.com/clearance",
       "source_url": "https://www.nordstromrack.com/clearance",
-      "fetched_at": "2026-11-20T20:27:45+00:00",
+      "fetched_at": "2026-11-21T07:16:57+00:00",
       "active": true,
       "discount_percent": 52
+    },
+    {
+      "provider": "Nordstrom Rack",
+      "title": "Nordstrom Rack: Up To 71% Off select items",
+      "offer_text": "Up to 71% off select items",
+      "conditions": "Select items",
+      "offer_url": "https://www.nordstromrack.com/clearance",
+      "source_url": "https://www.nordstromrack.com/clearance",
+      "fetched_at": "2026-11-21T07:16:57+00:00",
+      "active": true,
+      "discount_percent": 71
     },
     {
       "provider": "Nordstrom Rack",
@@ -1098,9 +1088,20 @@
       "conditions": "Select items",
       "offer_url": "https://www.nordstromrack.com/clearance",
       "source_url": "https://www.nordstromrack.com/clearance",
-      "fetched_at": "2026-11-20T20:27:45+00:00",
+      "fetched_at": "2026-11-21T07:16:57+00:00",
       "active": true,
       "discount_percent": 80
+    },
+    {
+      "provider": "Nordstrom Rack",
+      "title": "Nordstrom Rack: Up To 67% Off select items",
+      "offer_text": "Up to 67% off select items",
+      "conditions": "Select items",
+      "offer_url": "https://www.nordstromrack.com/clearance",
+      "source_url": "https://www.nordstromrack.com/clearance",
+      "fetched_at": "2026-11-21T07:16:57+00:00",
+      "active": true,
+      "discount_percent": 67
     },
     {
       "provider": "Home Depot",
@@ -1119,7 +1120,7 @@
       "conditions": "Every Day",
       "offer_url": "https://www.wayfair.com/coupon-codes-policy",
       "source_url": "https://www.wayfair.com/coupon-codes-policy",
-      "fetched_at": "2026-11-20T20:27:51+00:00",
+      "fetched_at": "2026-11-21T07:17:03+00:00",
       "active": true,
       "discount_percent": 70
     },
@@ -1130,7 +1131,7 @@
       "conditions": "Over $35",
       "offer_url": "https://www.wayfair.com/coupon-codes-policy",
       "source_url": "https://www.wayfair.com/coupon-codes-policy",
-      "fetched_at": "2026-11-20T20:27:51+00:00",
+      "fetched_at": "2026-11-21T07:17:03+00:00",
       "active": true
     },
     {
@@ -1140,7 +1141,7 @@
       "conditions": "Your first qualifying order of $250+",
       "offer_url": "https://www.wayfair.com/coupon-codes-policy",
       "source_url": "https://www.wayfair.com/coupon-codes-policy",
-      "fetched_at": "2026-11-20T20:27:51+00:00",
+      "fetched_at": "2026-11-21T07:17:03+00:00",
       "active": true
     },
     {
@@ -1150,7 +1151,7 @@
       "conditions": "From Dyson; Code SHOPDYSON",
       "offer_url": "https://www.ebay.com/deals",
       "source_url": "https://www.ebay.com/deals",
-      "fetched_at": "2026-11-20T20:27:57+00:00",
+      "fetched_at": "2026-11-21T07:17:09+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -1161,7 +1162,7 @@
       "conditions": "Select fashion; Code SAVELUXE",
       "offer_url": "https://www.ebay.com/deals",
       "source_url": "https://www.ebay.com/deals",
-      "fetched_at": "2026-11-20T20:27:57+00:00",
+      "fetched_at": "2026-11-21T07:17:09+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -1172,7 +1173,7 @@
       "conditions": "Select auto parts and accessories; Code PARTSAVE10",
       "offer_url": "https://www.ebay.com/deals",
       "source_url": "https://www.ebay.com/deals",
-      "fetched_at": "2026-11-20T20:27:57+00:00",
+      "fetched_at": "2026-11-21T07:17:09+00:00",
       "active": true,
       "discount_percent": 10
     },
@@ -1183,7 +1184,7 @@
       "conditions": "EBay Refurbished cell phones and accessories",
       "offer_url": "https://www.ebay.com/deals",
       "source_url": "https://www.ebay.com/deals",
-      "fetched_at": "2026-11-20T20:27:57+00:00",
+      "fetched_at": "2026-11-21T07:17:09+00:00",
       "active": true,
       "discount_percent": 60
     },
@@ -1194,7 +1195,7 @@
       "conditions": "With warranty",
       "offer_url": "https://www.ebay.com/deals",
       "source_url": "https://www.ebay.com/deals",
-      "fetched_at": "2026-11-20T20:27:57+00:00",
+      "fetched_at": "2026-11-21T07:17:09+00:00",
       "active": true,
       "discount_percent": 60
     },
@@ -1205,7 +1206,7 @@
       "conditions": "Refurbished home and tools with warranty",
       "offer_url": "https://www.ebay.com/deals",
       "source_url": "https://www.ebay.com/deals",
-      "fetched_at": "2026-11-20T20:27:57+00:00",
+      "fetched_at": "2026-11-21T07:17:09+00:00",
       "active": true,
       "discount_percent": 50
     },
@@ -1216,7 +1217,7 @@
       "conditions": "From quickshipelectronics w/code NICEFIND10",
       "offer_url": "https://www.ebay.com/deals",
       "source_url": "https://www.ebay.com/deals",
-      "fetched_at": "2026-11-20T20:27:57+00:00",
+      "fetched_at": "2026-11-21T07:17:09+00:00",
       "active": true,
       "discount_percent": 10
     },
@@ -1227,7 +1228,7 @@
       "conditions": "On footwear for him from online_shoes",
       "offer_url": "https://www.ebay.com/deals",
       "source_url": "https://www.ebay.com/deals",
-      "fetched_at": "2026-11-20T20:27:57+00:00",
+      "fetched_at": "2026-11-21T07:17:09+00:00",
       "active": true,
       "discount_percent": 60
     },
@@ -1238,7 +1239,7 @@
       "conditions": "With exclusive offers for students, teachers, government, military and corporate employees",
       "offer_url": "https://www.samsung.com/us/offers/",
       "source_url": "https://www.samsung.com/us/offers/",
-      "fetched_at": "2026-11-20T20:28:01+00:00",
+      "fetched_at": "2026-11-21T07:17:13+00:00",
       "active": true,
       "discount_percent": 30
     },
@@ -1249,7 +1250,7 @@
       "conditions": "Everything else",
       "offer_url": "https://www.lenovo.com/us/en/d/deals/",
       "source_url": "https://www.lenovo.com/us/en/d/deals/",
-      "fetched_at": "2026-11-20T20:28:40+00:00",
+      "fetched_at": "2026-11-21T07:17:51+00:00",
       "active": true,
       "discount_percent": 5
     },
@@ -1260,7 +1261,7 @@
       "conditions": "First order of $1,000+, exclusive savings & 1:1 tech support",
       "offer_url": "https://www.lenovo.com/us/en/d/deals/",
       "source_url": "https://www.lenovo.com/us/en/d/deals/",
-      "fetched_at": "2026-11-20T20:28:40+00:00",
+      "fetched_at": "2026-11-21T07:17:51+00:00",
       "active": true
     },
     {
@@ -1270,7 +1271,7 @@
       "conditions": "Instantly and $799 back over 24 monthly credits",
       "offer_url": "https://store.google.com/us/collection/offers?hl=en-US",
       "source_url": "https://store.google.com/us/collection/offers?hl=en-US",
-      "fetched_at": "2026-11-20T20:28:41+00:00",
+      "fetched_at": "2026-11-21T07:17:52+00:00",
       "active": true
     },
     {
@@ -1280,7 +1281,7 @@
       "conditions": "Pixel 11 Pro XL, plus $10/mo off your phone plan when you join Google Fi Wireless",
       "offer_url": "https://store.google.com/us/collection/offers?hl=en-US",
       "source_url": "https://store.google.com/us/collection/offers?hl=en-US",
-      "fetched_at": "2026-11-20T20:28:41+00:00",
+      "fetched_at": "2026-11-21T07:17:52+00:00",
       "active": true
     },
     {
@@ -1290,7 +1291,7 @@
       "conditions": "Eligible purchases when you verify with ID",
       "offer_url": "https://store.google.com/us/collection/offers?hl=en-US",
       "source_url": "https://store.google.com/us/collection/offers?hl=en-US",
-      "fetched_at": "2026-11-20T20:28:41+00:00",
+      "fetched_at": "2026-11-21T07:17:52+00:00",
       "active": true,
       "discount_percent": 10
     },
@@ -1301,7 +1302,7 @@
       "conditions": "Your phone plan when you join Google Fi Wireless",
       "offer_url": "https://store.google.com/us/collection/offers?hl=en-US",
       "source_url": "https://store.google.com/us/collection/offers?hl=en-US",
-      "fetched_at": "2026-11-20T20:28:41+00:00",
+      "fetched_at": "2026-11-21T07:17:52+00:00",
       "active": true,
       "discount_percent": 50
     },
@@ -1312,7 +1313,7 @@
       "conditions": "A Champagne Gold Pixel Watch Metal Mesh Band",
       "offer_url": "https://store.google.com/us/collection/offers?hl=en-US",
       "source_url": "https://store.google.com/us/collection/offers?hl=en-US",
-      "fetched_at": "2026-11-20T20:28:41+00:00",
+      "fetched_at": "2026-11-21T07:17:52+00:00",
       "active": true
     },
     {
@@ -1322,7 +1323,7 @@
       "conditions": "On Fitbit Inspire 3 bands",
       "offer_url": "https://store.google.com/us/collection/offers?hl=en-US",
       "source_url": "https://store.google.com/us/collection/offers?hl=en-US",
-      "fetched_at": "2026-11-20T20:28:41+00:00",
+      "fetched_at": "2026-11-21T07:17:52+00:00",
       "active": true,
       "discount_percent": 10
     },
@@ -1333,7 +1334,7 @@
       "conditions": "When you buy a Spigen Vault Keychain for Google Tag with a Google Pixel Tag",
       "offer_url": "https://store.google.com/us/collection/offers?hl=en-US",
       "source_url": "https://store.google.com/us/collection/offers?hl=en-US",
-      "fetched_at": "2026-11-20T20:28:41+00:00",
+      "fetched_at": "2026-11-21T07:17:52+00:00",
       "active": true
     },
     {
@@ -1343,7 +1344,7 @@
       "conditions": "On Orders $99+",
       "offer_url": "https://www.cotopaxi.com/collections/sale",
       "source_url": "https://www.cotopaxi.com/collections/sale",
-      "fetched_at": "2026-11-20T20:28:44+00:00",
+      "fetched_at": "2026-11-21T07:17:55+00:00",
       "active": true
     },
     {
@@ -1353,7 +1354,7 @@
       "conditions": "HOLIDAY GIFT WITH PURCHASE",
       "offer_url": "https://www.cotopaxi.com/collections/sale",
       "source_url": "https://www.cotopaxi.com/collections/sale",
-      "fetched_at": "2026-11-20T20:28:44+00:00",
+      "fetched_at": "2026-11-21T07:17:55+00:00",
       "active": true
     },
     {
@@ -1363,7 +1364,7 @@
       "conditions": "On orders over $100",
       "offer_url": "https://topodesigns.com/collections/sale-collection",
       "source_url": "https://topodesigns.com/collections/sale-collection",
-      "fetched_at": "2026-11-20T20:28:46+00:00",
+      "fetched_at": "2026-11-21T07:17:57+00:00",
       "active": true
     },
     {
@@ -1373,7 +1374,7 @@
       "conditions": "Your first order",
       "offer_url": "https://topodesigns.com/collections/sale-collection",
       "source_url": "https://topodesigns.com/collections/sale-collection",
-      "fetched_at": "2026-11-20T20:28:46+00:00",
+      "fetched_at": "2026-11-21T07:17:57+00:00",
       "active": true,
       "discount_percent": 10
     },
@@ -1384,7 +1385,7 @@
       "conditions": "On US orders $125+",
       "offer_url": "https://www.outdoorresearch.com/collections/sale",
       "source_url": "https://www.outdoorresearch.com/collections/sale",
-      "fetched_at": "2026-11-20T20:28:48+00:00",
+      "fetched_at": "2026-11-21T07:17:59+00:00",
       "active": true
     },
     {
@@ -1394,7 +1395,7 @@
       "conditions": "ON EVERY ORDER",
       "offer_url": "https://www.mountainhardwear.com/outdoor-clothing-outlet/",
       "source_url": "https://www.mountainhardwear.com/outdoor-clothing-outlet/",
-      "fetched_at": "2026-11-20T20:28:50+00:00",
+      "fetched_at": "2026-11-21T07:18:00+00:00",
       "active": true
     },
     {
@@ -1404,7 +1405,7 @@
       "conditions": "Original pricing",
       "offer_url": "https://www.mountainhardwear.com/outdoor-clothing-outlet/",
       "source_url": "https://www.mountainhardwear.com/outdoor-clothing-outlet/",
-      "fetched_at": "2026-11-20T20:28:50+00:00",
+      "fetched_at": "2026-11-21T07:18:00+00:00",
       "active": true,
       "discount_percent": 70
     },
@@ -1415,7 +1416,7 @@
       "conditions": "When you sign up for texts",
       "offer_url": "javascript:void(0)",
       "source_url": "https://www.mountainhardwear.com/outdoor-clothing-outlet/",
-      "fetched_at": "2026-11-20T20:28:50+00:00",
+      "fetched_at": "2026-11-21T07:18:00+00:00",
       "active": true,
       "discount_percent": 15
     },
@@ -1426,7 +1427,7 @@
       "conditions": "Free gift",
       "offer_url": "https://madeincookware.com/collections/new-customer-welcome-offer",
       "source_url": "https://madeincookware.com/collections/new-customer-welcome-offer",
-      "fetched_at": "2026-11-20T20:28:52+00:00",
+      "fetched_at": "2026-11-21T07:18:02+00:00",
       "active": true
     },
     {
@@ -1436,7 +1437,7 @@
       "conditions": "Best Selling Cookware, Knives, Bakeware and more",
       "offer_url": "https://madeincookware.com/collections/new-customer-welcome-offer",
       "source_url": "https://madeincookware.com/collections/new-customer-welcome-offer",
-      "fetched_at": "2026-11-20T20:28:52+00:00",
+      "fetched_at": "2026-11-21T07:18:02+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -1447,7 +1448,7 @@
       "conditions": "Complete Kitchen Set Free gift",
       "offer_url": "https://madeincookware.com/products/the-stainless-sets/curated-kitchen",
       "source_url": "https://madeincookware.com/collections/new-customer-welcome-offer",
-      "fetched_at": "2026-11-20T20:28:52+00:00",
+      "fetched_at": "2026-11-21T07:18:02+00:00",
       "active": true
     },
     {
@@ -1457,7 +1458,7 @@
       "conditions": "$100+, 30-day trial, free returns",
       "offer_url": "https://greatjonesgoods.com/collections/warehouse-sale",
       "source_url": "https://greatjonesgoods.com/collections/warehouse-sale",
-      "fetched_at": "2026-11-20T20:28:53+00:00",
+      "fetched_at": "2026-11-21T07:18:03+00:00",
       "active": true
     },
     {
@@ -1467,7 +1468,7 @@
       "conditions": "Orders $200+",
       "offer_url": "https://www.bollandbranch.com/collections/sale/",
       "source_url": "https://www.bollandbranch.com/collections/sale/",
-      "fetched_at": "2026-11-20T20:28:56+00:00",
+      "fetched_at": "2026-11-21T07:18:05+00:00",
       "active": true,
       "discount_percent": 25
     },
@@ -1478,7 +1479,7 @@
       "conditions": "BLACK FRIDAY; Everything*",
       "offer_url": "https://www.everlane.com/collections/womens-sale",
       "source_url": "https://www.everlane.com/collections/womens-sale",
-      "fetched_at": "2026-11-20T20:29:30+00:00",
+      "fetched_at": "2026-11-21T07:18:39+00:00",
       "active": true,
       "discount_percent": 40
     },
@@ -1489,7 +1490,7 @@
       "conditions": "On U",
       "offer_url": "https://www.everlane.com/collections/womens-sale",
       "source_url": "https://www.everlane.com/collections/womens-sale",
-      "fetched_at": "2026-11-20T20:29:30+00:00",
+      "fetched_at": "2026-11-21T07:18:39+00:00",
       "active": true
     },
     {
@@ -1499,7 +1500,7 @@
       "conditions": "Your first order",
       "offer_url": "https://www.everlane.com/collections/womens-sale",
       "source_url": "https://www.everlane.com/collections/womens-sale",
-      "fetched_at": "2026-11-20T20:29:30+00:00",
+      "fetched_at": "2026-11-21T07:18:39+00:00",
       "active": true,
       "discount_percent": 15
     },
@@ -1510,7 +1511,7 @@
       "conditions": "Your first order",
       "offer_url": "https://www.everlane.com/collections/womens-sale",
       "source_url": "https://www.everlane.com/collections/womens-sale",
-      "fetched_at": "2026-11-20T20:29:30+00:00",
+      "fetched_at": "2026-11-21T07:18:39+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -1521,7 +1522,7 @@
       "conditions": "OVER $150 & 90 DAY RETURNS",
       "offer_url": "https://fahertybrand.com/collections/sale",
       "source_url": "https://fahertybrand.com/collections/sale",
-      "fetched_at": "2026-11-20T20:29:32+00:00",
+      "fetched_at": "2026-11-21T07:18:40+00:00",
       "active": true
     },
     {
@@ -1531,7 +1532,7 @@
       "conditions": "Over $150",
       "offer_url": "https://fahertybrand.com/collections/sale",
       "source_url": "https://fahertybrand.com/collections/sale",
-      "fetched_at": "2026-11-20T20:29:32+00:00",
+      "fetched_at": "2026-11-21T07:18:40+00:00",
       "active": true
     },
     {
@@ -1541,7 +1542,7 @@
       "conditions": "Your first online purchase when you sign up",
       "offer_url": "https://fahertybrand.com/collections/sale",
       "source_url": "https://fahertybrand.com/collections/sale",
-      "fetched_at": "2026-11-20T20:29:32+00:00",
+      "fetched_at": "2026-11-21T07:18:40+00:00",
       "active": true,
       "discount_percent": 15
     },
@@ -1552,7 +1553,7 @@
       "conditions": "On $75+",
       "offer_url": "https://www.marinelayer.com/collections/last-call",
       "source_url": "https://www.marinelayer.com/collections/last-call",
-      "fetched_at": "2026-11-20T20:29:34+00:00",
+      "fetched_at": "2026-11-21T07:18:42+00:00",
       "active": true
     },
     {
@@ -1562,7 +1563,7 @@
       "conditions": "On Orders $75+",
       "offer_url": "https://www.marinelayer.com/collections/last-call",
       "source_url": "https://www.marinelayer.com/collections/last-call",
-      "fetched_at": "2026-11-20T20:29:34+00:00",
+      "fetched_at": "2026-11-21T07:18:42+00:00",
       "active": true
     },
     {
@@ -1572,7 +1573,7 @@
       "conditions": "On orders over $75",
       "offer_url": "https://www.marinelayer.com/collections/last-call",
       "source_url": "https://www.marinelayer.com/collections/last-call",
-      "fetched_at": "2026-11-20T20:29:34+00:00",
+      "fetched_at": "2026-11-21T07:18:42+00:00",
       "active": true
     },
     {
@@ -1582,7 +1583,7 @@
       "conditions": "Any 3 Tees",
       "offer_url": "https://www.marinelayer.com/collections/last-call",
       "source_url": "https://www.marinelayer.com/collections/last-call",
-      "fetched_at": "2026-11-20T20:29:34+00:00",
+      "fetched_at": "2026-11-21T07:18:42+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -1614,7 +1615,7 @@
       "conditions": "Your 1st Purchase",
       "offer_url": "https://www.taylorstitch.com/collections/mens-last-call",
       "source_url": "https://www.taylorstitch.com/collections/mens-last-call",
-      "fetched_at": "2026-11-20T20:29:37+00:00",
+      "fetched_at": "2026-11-21T07:18:45+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -1625,7 +1626,7 @@
       "conditions": "Your First Order —",
       "offer_url": "https://www.taylorstitch.com/collections/mens-last-call",
       "source_url": "https://www.taylorstitch.com/collections/mens-last-call",
-      "fetched_at": "2026-11-20T20:29:37+00:00",
+      "fetched_at": "2026-11-21T07:18:45+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -1636,7 +1637,7 @@
       "conditions": "& Returns On Every Domestic Order",
       "offer_url": "https://www.taylorstitch.com/collections/mens-last-call",
       "source_url": "https://www.taylorstitch.com/collections/mens-last-call",
-      "fetched_at": "2026-11-20T20:29:37+00:00",
+      "fetched_at": "2026-11-21T07:18:45+00:00",
       "active": true
     },
     {
@@ -1646,7 +1647,7 @@
       "conditions": "Your first purchase",
       "offer_url": "https://www.taylorstitch.com/collections/mens-last-call",
       "source_url": "https://www.taylorstitch.com/collections/mens-last-call",
-      "fetched_at": "2026-11-20T20:29:37+00:00",
+      "fetched_at": "2026-11-21T07:18:45+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -1657,7 +1658,7 @@
       "conditions": "Your first purchase",
       "offer_url": "https://www.alexmill.com/collections/womens-sale",
       "source_url": "https://www.alexmill.com/collections/womens-sale",
-      "fetched_at": "2026-11-20T20:29:39+00:00",
+      "fetched_at": "2026-11-21T07:18:47+00:00",
       "active": true,
       "discount_percent": 10
     },
@@ -1668,7 +1669,7 @@
       "conditions": "ON US ORDERS OVER $150+",
       "offer_url": "https://www.american-giant.com/collections/sale-page",
       "source_url": "https://www.american-giant.com/collections/sale-page",
-      "fetched_at": "2026-11-20T20:29:40+00:00",
+      "fetched_at": "2026-11-21T07:18:48+00:00",
       "active": true
     },
     {
@@ -1688,7 +1689,7 @@
       "conditions": "On orders $100+",
       "offer_url": "https://www.outdoorvoices.com/collections/ov-extra",
       "source_url": "https://www.outdoorvoices.com/collections/ov-extra",
-      "fetched_at": "2026-11-20T20:29:52+00:00",
+      "fetched_at": "2026-11-21T07:18:59+00:00",
       "active": true
     },
     {
@@ -1698,7 +1699,7 @@
       "conditions": "On orders over $100 in the U",
       "offer_url": "https://www.outdoorvoices.com/collections/ov-extra",
       "source_url": "https://www.outdoorvoices.com/collections/ov-extra",
-      "fetched_at": "2026-11-20T20:29:52+00:00",
+      "fetched_at": "2026-11-21T07:18:59+00:00",
       "active": true
     },
     {
@@ -1708,7 +1709,7 @@
       "conditions": "In Cart",
       "offer_url": "https://www.outdoorvoices.com/collections/ov-extra",
       "source_url": "https://www.outdoorvoices.com/collections/ov-extra",
-      "fetched_at": "2026-11-20T20:29:52+00:00",
+      "fetched_at": "2026-11-21T07:18:59+00:00",
       "active": true,
       "discount_percent": 30
     },
@@ -1719,7 +1720,7 @@
       "conditions": "& Fast Returns",
       "offer_url": "https://www.universalstandard.com/pages/sale",
       "source_url": "https://www.universalstandard.com/pages/sale",
-      "fetched_at": "2026-11-20T20:29:53+00:00",
+      "fetched_at": "2026-11-21T07:19:00+00:00",
       "active": true
     },
     {
@@ -1729,7 +1730,7 @@
       "conditions": "IN APP",
       "offer_url": "https://www.biossance.com/c/offers/",
       "source_url": "https://www.biossance.com/c/offers/",
-      "fetched_at": "2026-11-20T20:29:57+00:00",
+      "fetched_at": "2026-11-21T07:19:03+00:00",
       "active": true
     },
     {
@@ -1739,7 +1740,7 @@
       "conditions": "YOUR FIRST ORDER",
       "offer_url": "https://www.biossance.com/c/offers/",
       "source_url": "https://www.biossance.com/c/offers/",
-      "fetched_at": "2026-11-20T20:29:57+00:00",
+      "fetched_at": "2026-11-21T07:19:03+00:00",
       "active": true
     },
     {
@@ -1749,7 +1750,7 @@
       "conditions": "On orders $50+",
       "offer_url": "https://www.cocokind.com/collections/sale",
       "source_url": "https://www.cocokind.com/collections/sale",
-      "fetched_at": "2026-11-20T20:30:03+00:00",
+      "fetched_at": "2026-11-21T07:19:09+00:00",
       "active": true
     },
     {
@@ -1759,7 +1760,7 @@
       "conditions": "Plus early access to launches, skincare tips and more",
       "offer_url": "https://www.cocokind.com/collections/sale",
       "source_url": "https://www.cocokind.com/collections/sale",
-      "fetched_at": "2026-11-20T20:30:03+00:00",
+      "fetched_at": "2026-11-21T07:19:09+00:00",
       "active": true,
       "discount_percent": 10
     },
@@ -1770,7 +1771,7 @@
       "conditions": "Sitewide for VIPs",
       "offer_url": "https://iliabeauty.com/collections/ilia-sale",
       "source_url": "https://iliabeauty.com/collections/ilia-sale",
-      "fetched_at": "2026-11-20T20:30:09+00:00",
+      "fetched_at": "2026-11-21T07:19:16+00:00",
       "active": true,
       "discount_percent": 25
     },
@@ -1781,7 +1782,7 @@
       "conditions": "All Bundles",
       "offer_url": "https://iliabeauty.com/collections/ilia-sale",
       "source_url": "https://iliabeauty.com/collections/ilia-sale",
-      "fetched_at": "2026-11-20T20:30:09+00:00",
+      "fetched_at": "2026-11-21T07:19:16+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -1792,7 +1793,7 @@
       "conditions": "Of Multi-Stick",
       "offer_url": "https://iliabeauty.com/collections/ilia-sale",
       "source_url": "https://iliabeauty.com/collections/ilia-sale",
-      "fetched_at": "2026-11-20T20:30:09+00:00",
+      "fetched_at": "2026-11-21T07:19:16+00:00",
       "active": true,
       "discount_percent": 30
     },
@@ -1803,7 +1804,7 @@
       "conditions": "SITEWIDE / 25% OFF FOR VIPS*",
       "offer_url": "https://iliabeauty.com/collections/ilia-sale",
       "source_url": "https://iliabeauty.com/collections/ilia-sale",
-      "fetched_at": "2026-11-20T20:30:09+00:00",
+      "fetched_at": "2026-11-21T07:19:16+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -1814,7 +1815,7 @@
       "conditions": "Your first order",
       "offer_url": "https://iliabeauty.com/collections/ilia-sale",
       "source_url": "https://iliabeauty.com/collections/ilia-sale",
-      "fetched_at": "2026-11-20T20:30:09+00:00",
+      "fetched_at": "2026-11-21T07:19:16+00:00",
       "active": true,
       "discount_percent": 15
     },
@@ -1825,7 +1826,7 @@
       "conditions": "Sitewide for VIPs Sign in to shop the sale",
       "offer_url": "https://iliabeauty.com/account/register",
       "source_url": "https://iliabeauty.com/collections/ilia-sale",
-      "fetched_at": "2026-11-20T20:30:09+00:00",
+      "fetched_at": "2026-11-21T07:19:16+00:00",
       "active": true,
       "discount_percent": 25
     },
@@ -1836,7 +1837,7 @@
       "conditions": "Sitewide Shop the Sale",
       "offer_url": "https://iliabeauty.com/collections/best-sellers",
       "source_url": "https://iliabeauty.com/collections/ilia-sale",
-      "fetched_at": "2026-11-20T20:30:09+00:00",
+      "fetched_at": "2026-11-21T07:19:16+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -1847,7 +1848,7 @@
       "conditions": "With orders $50+",
       "offer_url": "https://lovekinship.com/collections/sale",
       "source_url": "https://lovekinship.com/collections/sale",
-      "fetched_at": "2026-11-20T20:30:14+00:00",
+      "fetched_at": "2026-11-21T07:19:20+00:00",
       "active": true
     },
     {
@@ -1857,7 +1858,7 @@
       "conditions": "Sitewide +5% more when you sign up for email/SMS",
       "offer_url": "https://kosas.com/pages/offers",
       "source_url": "https://kosas.com/pages/offers",
-      "fetched_at": "2026-11-20T20:30:19+00:00",
+      "fetched_at": "2026-11-21T07:19:26+00:00",
       "active": true,
       "discount_percent": 25
     },
@@ -1868,7 +1869,7 @@
       "conditions": "On US Orders $50+ & Free Returns",
       "offer_url": "https://kosas.com/pages/offers",
       "source_url": "https://kosas.com/pages/offers",
-      "fetched_at": "2026-11-20T20:30:19+00:00",
+      "fetched_at": "2026-11-21T07:19:26+00:00",
       "active": true
     },
     {
@@ -1878,7 +1879,7 @@
       "conditions": "Sitewide Free full-size gifts with orders $80+",
       "offer_url": "https://kosas.com/collections/shop",
       "source_url": "https://kosas.com/pages/offers",
-      "fetched_at": "2026-11-20T20:30:19+00:00",
+      "fetched_at": "2026-11-21T07:19:26+00:00",
       "active": true,
       "discount_percent": 25
     },
@@ -1889,7 +1890,7 @@
       "conditions": "Sitewide Plus, up to 40% off sets",
       "offer_url": "https://kosas.com/collections/shop",
       "source_url": "https://kosas.com/pages/offers",
-      "fetched_at": "2026-11-20T20:30:19+00:00",
+      "fetched_at": "2026-11-21T07:19:26+00:00",
       "active": true,
       "discount_percent": 25
     },
@@ -1900,7 +1901,7 @@
       "conditions": "Your Next Purchase Of $50+",
       "offer_url": "https://necessaire.com/pages/referrals",
       "source_url": "https://necessaire.com/pages/referrals",
-      "fetched_at": "2026-11-20T20:30:25+00:00",
+      "fetched_at": "2026-11-21T07:19:31+00:00",
       "active": true
     },
     {
@@ -1910,7 +1911,7 @@
       "conditions": "On orders over $50+ to the contiguous US",
       "offer_url": "https://saiehello.com/collections/our-biggest-sale-of-the-year",
       "source_url": "https://saiehello.com/collections/our-biggest-sale-of-the-year",
-      "fetched_at": "2026-11-20T20:30:31+00:00",
+      "fetched_at": "2026-11-21T07:19:38+00:00",
       "active": true
     },
     {
@@ -1920,7 +1921,7 @@
       "conditions": "Jell-O X Tower 28 Sets",
       "offer_url": "https://www.tower28beauty.com/collections/eligible-for-promo",
       "source_url": "https://www.tower28beauty.com/collections/eligible-for-promo",
-      "fetched_at": "2026-11-20T20:30:37+00:00",
+      "fetched_at": "2026-11-21T07:19:43+00:00",
       "active": true,
       "discount_percent": 40
     },
@@ -1931,7 +1932,7 @@
       "conditions": "Your First Order",
       "offer_url": "https://www.tower28beauty.com/collections/eligible-for-promo",
       "source_url": "https://www.tower28beauty.com/collections/eligible-for-promo",
-      "fetched_at": "2026-11-20T20:30:37+00:00",
+      "fetched_at": "2026-11-21T07:19:43+00:00",
       "active": true,
       "discount_percent": 10
     },
@@ -1942,7 +1943,7 @@
       "conditions": "WITH PURCHASE",
       "offer_url": "https://www.tower28beauty.com/collections/eligible-for-promo",
       "source_url": "https://www.tower28beauty.com/collections/eligible-for-promo",
-      "fetched_at": "2026-11-20T20:30:37+00:00",
+      "fetched_at": "2026-11-21T07:19:43+00:00",
       "active": true
     },
     {
@@ -1952,7 +1953,7 @@
       "conditions": "Sitewide & Free Day Dissolve Mini with orders $40+",
       "offer_url": "https://versedskin.com/collections/last-chance",
       "source_url": "https://versedskin.com/collections/last-chance",
-      "fetched_at": "2026-11-20T20:30:43+00:00",
+      "fetched_at": "2026-11-21T07:19:49+00:00",
       "active": true,
       "discount_percent": 25
     },
@@ -1963,7 +1964,7 @@
       "conditions": "On US Orders $40+",
       "offer_url": "https://versedskin.com/collections/last-chance",
       "source_url": "https://versedskin.com/collections/last-chance",
-      "fetched_at": "2026-11-20T20:30:43+00:00",
+      "fetched_at": "2026-11-21T07:19:49+00:00",
       "active": true
     },
     {
@@ -1973,7 +1974,7 @@
       "conditions": "Unit price / per",
       "offer_url": "https://versedskin.com/products/everything-balm",
       "source_url": "https://versedskin.com/collections/last-chance",
-      "fetched_at": "2026-11-20T20:30:43+00:00",
+      "fetched_at": "2026-11-21T07:19:49+00:00",
       "active": true,
       "discount_percent": 25
     },
@@ -1984,7 +1985,7 @@
       "conditions": "(applies to US only",
       "offer_url": "https://atlascoffeeclub.com/collections/indonesia-offer-subscription",
       "source_url": "https://atlascoffeeclub.com/collections/indonesia-offer-subscription",
-      "fetched_at": "2026-11-20T20:30:46+00:00",
+      "fetched_at": "2026-11-21T07:19:51+00:00",
       "active": true
     },
     {
@@ -1994,7 +1995,7 @@
       "conditions": "Limited Time Sale",
       "offer_url": "https://atlascoffeeclub.com/collections/indonesia-offer-subscription",
       "source_url": "https://atlascoffeeclub.com/collections/indonesia-offer-subscription",
-      "fetched_at": "2026-11-20T20:30:46+00:00",
+      "fetched_at": "2026-11-21T07:19:51+00:00",
       "active": true
     },
     {
@@ -2004,7 +2005,7 @@
       "conditions": "Your First Order",
       "offer_url": "https://atlascoffeeclub.com/collections/indonesia-offer-subscription",
       "source_url": "https://atlascoffeeclub.com/collections/indonesia-offer-subscription",
-      "fetched_at": "2026-11-20T20:30:46+00:00",
+      "fetched_at": "2026-11-21T07:19:51+00:00",
       "active": true,
       "discount_percent": 50
     },
@@ -2015,7 +2016,7 @@
       "conditions": "When you pay it forward",
       "offer_url": "https://perelelhealth.com/collections/giveback-sale",
       "source_url": "https://perelelhealth.com/collections/giveback-sale",
-      "fetched_at": "2026-11-20T20:30:47+00:00",
+      "fetched_at": "2026-11-21T07:19:52+00:00",
       "active": true,
       "discount_percent": 20
     },
@@ -2026,7 +2027,7 @@
       "conditions": "Your first order",
       "offer_url": "https://perelelhealth.com/collections/giveback-sale",
       "source_url": "https://perelelhealth.com/collections/giveback-sale",
-      "fetched_at": "2026-11-20T20:30:47+00:00",
+      "fetched_at": "2026-11-21T07:19:52+00:00",
       "active": true,
       "discount_percent": 15
     },
@@ -2037,7 +2038,7 @@
       "conditions": "Auto-Renew Orders",
       "offer_url": "https://www.coterie.com/military",
       "source_url": "https://www.coterie.com/military",
-      "fetched_at": "2026-11-20T20:30:48+00:00",
+      "fetched_at": "2026-11-21T07:19:54+00:00",
       "active": true,
       "discount_percent": 15
     },
@@ -2048,7 +2049,7 @@
       "conditions": "Every Auto Renew order",
       "offer_url": "https://www.coterie.com/military",
       "source_url": "https://www.coterie.com/military",
-      "fetched_at": "2026-11-20T20:30:48+00:00",
+      "fetched_at": "2026-11-21T07:19:54+00:00",
       "active": true,
       "discount_percent": 10
     },
@@ -2059,7 +2060,7 @@
       "conditions": "On both of your active Auto-Renews",
       "offer_url": "https://www.coterie.com/military",
       "source_url": "https://www.coterie.com/military",
-      "fetched_at": "2026-11-20T20:30:48+00:00",
+      "fetched_at": "2026-11-21T07:19:54+00:00",
       "active": true
     },
     {
@@ -2069,7 +2070,7 @@
       "conditions": "OVER $50 USD",
       "offer_url": "https://ergobaby.com/en-us/collections/sale",
       "source_url": "https://ergobaby.com/en-us/collections/sale",
-      "fetched_at": "2026-11-20T20:30:50+00:00",
+      "fetched_at": "2026-11-21T07:19:55+00:00",
       "active": true
     },
     {
@@ -2079,7 +2080,7 @@
       "conditions": "Full-priced styles",
       "offer_url": "https://ergobaby.com/en-us/collections/sale",
       "source_url": "https://ergobaby.com/en-us/collections/sale",
-      "fetched_at": "2026-11-20T20:30:50+00:00",
+      "fetched_at": "2026-11-21T07:19:55+00:00",
       "active": true,
       "discount_percent": 15
     },
@@ -2090,7 +2091,7 @@
       "conditions": "Get a free gift",
       "offer_url": "https://lovevery.com/pages/coupons",
       "source_url": "https://lovevery.com/pages/coupons",
-      "fetched_at": "2026-11-20T20:30:52+00:00",
+      "fetched_at": "2026-11-21T07:19:57+00:00",
       "active": true
     },
     {
@@ -2100,7 +2101,7 @@
       "conditions": "Subscribe to The Play Kits for a free gift. Gift options rotate periodically. Terms apply.",
       "offer_url": "https://lovevery.com/pages/coupons",
       "source_url": "https://lovevery.com/pages/coupons",
-      "fetched_at": "2026-11-20T20:30:52+00:00",
+      "fetched_at": "2026-11-21T07:19:57+00:00",
       "active": true
     }
   ]
